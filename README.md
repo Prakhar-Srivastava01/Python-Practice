@@ -1,5 +1,6 @@
-# python-repo
-this is my first repository.
-<br>
-author - prakhar srivastava
-i am so excited to learning of git and github
+# Python - Practice - Projects
+This repository cotains my python practice project .
+##  Projects 
+- Calculator 
+- Number Guessing Game 
+author - Prakhar Srivastava
