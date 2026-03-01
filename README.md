@@ -4,4 +4,4 @@ This repository cotains my python practice project .
 - Calculator 
 - Number Guessing Game
   
-author - Prakhar Srivastava
+  Author - Prakhar Srivastava
